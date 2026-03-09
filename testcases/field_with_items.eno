@@ -1,0 +1,28 @@
+key:
+-
+
+key:
+-
+  -  
+  
+key:
+-value
+
+key:
+  -  value  
+
+key:
+-value
+  -  value  
+
+`key`:
+-value
+  -  value  
+
+  key  :  
+-value
+  -  value  
+
+  `key`  :  
+-value
+  -  value  
